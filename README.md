@@ -9,3 +9,4 @@ This is an implementation of the paper "[Deep Gaussian Process for Crop Yield Pr
 - [What are deep Gaussian processes?](https://qr.ae/TWyA6J)
 - [How do you explain Gaussian Processes in layman's terms?](https://qr.ae/TWyA63)
 - [[VIDEO] Gaussian Process](https://www.youtube.com/watch?v=vU6AiEYED9E&list=PLD0F06AA0D2E8FFBA&index=151&t=10s)
+- [[VIDEO] Gaussian Process Basics](http://videolectures.net/gpip06_mackay_gpb/)
